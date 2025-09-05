@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nursing Ward Scheduler AI",
+  "description": "An intelligent application that uses AI to generate weekly 24/7 shift schedules for a team of 10 nurses, ensuring fair distribution and adherence to scheduling rules.",
+  "requestFramePermissions": []
+}
